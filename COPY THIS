@@ -1,0 +1,7 @@
+Add the following lines to the end of your .bashrc prompt:
+
+# Just a White Cat's custom bash prompt
+force_color_prompt=yes
+
+
+PS1="\e[0;31m\n╭─[\e[0;37m\t : \d\e[0;31m]\n│\n╰─[\e[0;37m\$ : \w\e[0;31m]> \[\033[00m\]"
