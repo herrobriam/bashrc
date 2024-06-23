@@ -1,6 +1,6 @@
 Add the following lines to the end of your .bashrc prompt:
 
-# Just a White Cat's custom bash prompt
+# herrobriam's custom bash prompt
 force_color_prompt=yes
 
 
